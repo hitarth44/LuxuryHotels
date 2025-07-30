@@ -112,10 +112,11 @@ function Contact() {
                   whileInView={{ opacity: 1, x: 0 }} // Animation when it comes into view
                   transition={{ duration: 0.5 }} // Animation duration
                >
-                  <h5>567 Sibonga Pandan Cebu, Postal 6020</h5>
+                  <h5>Ahemdabad , Gujarat</h5>
                   <div className="contact-view-button">
                      <a
-                        href="https://www.google.com/maps/place/Sibonga,+Cebu/@10.0312144,123.4907009,12z/data=!4m6!3m5!1s0x33abda009b307345:0x6b7eeafa2fa8fc38!8m2!3d10.0431063!4d123.5951925!16zL20vMDZoNG55?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+                       href="https://www.google.com/maps/place/Ahmedabad,+Gujarat/@23.022505,72.571362,12z/data=!3m1!4b1!4m5!3m4!1s0x395e84e0a64b7ff1:0x2b0b55d5475b6e3!8m2!3d23.022505!4d72.571362"
+
                         target="_blank"
                         rel="noopener noreferrer"
                      >
@@ -125,7 +126,7 @@ function Contact() {
                   </div>
                   <div>
                      <p className="home-p">Contact: +63 93 1028 2926</p>
-                     <p className="home-p">Email: bansimplified567@gmail.com</p>
+                     <p className="home-p">Email: luxuryhotels567@gmail.com</p>
                   </div>
                </motion.section>
 

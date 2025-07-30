@@ -70,9 +70,9 @@ function Footer() {
                <NavLink to="/">
                   <img src={Luxury} alt="Luxury Hotels" />
                </NavLink>
-               <p className="home-p">567, Sibonga St, Pandan Cebu, 6020</p>
+               <p className="home-p">Ahemdabad , Gujarat</p>
                <p className="home-p">+63 93 1028 2926</p>
-               <p className="home-p">bansimplified567@gmail.com</p>
+               <p className="home-p">luxuryhotels567@gmail.com</p>
             </section>
             <section className="footer-navigation">
                <ul>
@@ -91,7 +91,7 @@ function Footer() {
                <ul>
                   <li>
                      <a
-                        href="https://www.facebook.com/him.blacklion567"
+                        href="https://www.facebook.com"
                         target="_blank"
                         rel="noopener noreferrer"
                      >
@@ -99,13 +99,13 @@ function Footer() {
                      </a>
                   </li>
                   <li>
-                     <a href="https://x.com/JBringcola" target="_blank" rel="noopener noreferrer">
+                     <a href="https://x.com" target="_blank" rel="noopener noreferrer">
                         Twitter
                      </a>
                   </li>
                   <li>
                      <a
-                        href="https://www.instagram.com/nocodearea/"
+                        href="https://www.instagram.com"
                         target="_blank"
                         rel="noopener noreferrer"
                      >

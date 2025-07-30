@@ -13,22 +13,22 @@ import RoomsCategory3 from '../images/frames-for-your-heart-FqqiAvJejto-unsplash
 function Rooms() {
    const details = [
       {
-         title: 'SINGLE ROOM',
-         price: '₱1,479 Avg/night',
+         title: 'DELUXE',
+         price: '₹5,479 /night',
          image: RoomsCategory,
          description:
             'Our Single Room is perfect for solo travelers and business guests, featuring a queen-size bed, free high-speed Wi-Fi, flat-screen TV, 24-hour room service, a work desk with ergonomic chair, en-suite bathroom with toiletries and bathrobes, and daily housekeeping—offering comfort, convenience, and affordability.',
       },
       {
-         title: 'DOUBLE ROOM',
-         price: '₱1,829 Avg/day',
+         title: 'SUPER DELUXE',
+         price: '₹8,829 /day',
          image: RoomsCategory2,
          description:
             'Our Double Room provides a cozy retreat for couples or friends, featuring two plush double beds with high-quality linens, a stylish and spacious layout with natural light, and a modern ensuite bathroom with complimentary toiletries. Enjoy in-room amenities like free Wi-Fi, a flat-screen TV with cable, a mini-fridge, a work desk, a coffee maker, a safe for valuables, and 24/7 room service for a relaxing stay after a day of exploration or work.',
       },
       {
-         title: 'BIG ROOM',
-         price: '₱2,659 Avg/night',
+         title: 'SUITE',
+         price: '₹10,659 /night',
          image: RoomsCategory3,
          description:
             'Our Big Room offers spacious luxury for travelers, featuring a king-size bed, a separate sitting area with a sofa bed for up to four guests, and an elegant ensuite bathroom with a soaking tub and walk-in shower. Enjoy amenities like a large flat-screen TV, high-speed internet, a sound system, and a convenient kitchenette with dining space. With stunning views of the city skyline or serene landscapes and exclusive concierge service, it’s the perfect choice for both business and leisure travelers seeking an unforgettable stay.',
