@@ -1,9 +1,9 @@
 import { createBrowserRouter, Outlet, RouterProvider } from 'react-router-dom';
 import Header from './Components/Header';
-import Contact from './pages/Contact'; // Import directly
-import Facilities from './pages/Facilities'; // Import directly
-import Home from './pages/Home'; // Import directly
-import Rooms from './pages/Rooms'; // Import directly
+import Contact from './Pages/Contact'; // Import directly
+import Facilities from './Pages/Facilities'; // Import directly
+import Home from './Pages/Home'; // Import directly
+import Rooms from './Pages/Rooms'; // Import directly
 
 // Routes configuration
 const routes = [
