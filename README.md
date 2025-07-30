@@ -27,3 +27,6 @@ To clone this repository, follow these steps:
    ```bash
    git clone https://github.com/hitarth44/LuxuryHotels
    ```
+## Live Demo
+
+https://luxuryhotelss.netlify.app/
